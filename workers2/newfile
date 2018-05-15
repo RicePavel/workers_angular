@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `book`(
+                  `name` TEXT NOT NULL,
+                  `mail` TEXT NOT NULL,
+                 `txt` TEXT NOT NULL
+        ) ENGINE=MyISAM CHARSET=cp1251  CHARACTER SET cp1251
